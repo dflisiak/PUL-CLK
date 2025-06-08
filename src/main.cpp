@@ -307,7 +307,7 @@ void refreshDisplay(){
 
 void setup() {
 
-  setup_serial();
+  //setup_serial();
   
   setup_sensors();
 
